@@ -1,0 +1,2 @@
+/home/student/pid.o
+
